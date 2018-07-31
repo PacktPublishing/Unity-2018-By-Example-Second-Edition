@@ -1,0 +1,25 @@
+Initialize engine version: 5.1.3f1 (b0a23b31c3d8)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.0]
+    Renderer: NVIDIA GeForce GTX 660   (ID=0x11c0)
+    Vendor:   NVIDIA
+    VRAM:     1984 MB
+Begin MonoManager ReloadAssembly
+Platform assembly: E:\user_data\user_documents\documents\books\UnityByExample\manuscript\chapter_03\files\End\TwinStickShooter\Build\FinalGame_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading E:\user_data\user_documents\documents\books\UnityByExample\manuscript\chapter_03\files\End\TwinStickShooter\Build\FinalGame_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: E:\user_data\user_documents\documents\books\UnityByExample\manuscript\chapter_03\files\End\TwinStickShooter\Build\FinalGame_Data\Managed\Assembly-CSharp-firstpass.dll (this message is harmless)
+Loading E:\user_data\user_documents\documents\books\UnityByExample\manuscript\chapter_03\files\End\TwinStickShooter\Build\FinalGame_Data\Managed\Assembly-CSharp-firstpass.dll into Unity Child Domain
+Platform assembly: E:\user_data\user_documents\documents\books\UnityByExample\manuscript\chapter_03\files\End\TwinStickShooter\Build\FinalGame_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading E:\user_data\user_documents\documents\books\UnityByExample\manuscript\chapter_03\files\End\TwinStickShooter\Build\FinalGame_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: E:\user_data\user_documents\documents\books\UnityByExample\manuscript\chapter_03\files\End\TwinStickShooter\Build\FinalGame_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading E:\user_data\user_documents\documents\books\UnityByExample\manuscript\chapter_03\files\End\TwinStickShooter\Build\FinalGame_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+Platform assembly: E:\user_data\user_documents\documents\books\UnityByExample\manuscript\chapter_03\files\End\TwinStickShooter\Build\FinalGame_Data\Managed\UnityEngine.Networking.dll (this message is harmless)
+Loading E:\user_data\user_documents\documents\books\UnityByExample\manuscript\chapter_03\files\End\TwinStickShooter\Build\FinalGame_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
+Platform assembly: E:\user_data\user_documents\documents\books\UnityByExample\manuscript\chapter_03\files\End\TwinStickShooter\Build\FinalGame_Data\Managed\UnityEngine.Analytics.dll (this message is harmless)
+Loading E:\user_data\user_documents\documents\books\UnityByExample\manuscript\chapter_03\files\End\TwinStickShooter\Build\FinalGame_Data\Managed\UnityEngine.Analytics.dll into Unity Child Domain
+Platform assembly: E:\user_data\user_documents\documents\books\UnityByExample\manuscript\chapter_03\files\End\TwinStickShooter\Build\FinalGame_Data\Managed\System.Core.dll (this message is harmless)
+- Completed reload, in  0.084 seconds
+desktop: 1920x1080 60Hz; virtual: 3840x1080 at 0,0
+<RI> Initializing input.
+<RI> Input initialized.

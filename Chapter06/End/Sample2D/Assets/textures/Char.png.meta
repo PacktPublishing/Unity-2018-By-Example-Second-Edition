@@ -1,0 +1,99 @@
+fileFormatVersion: 2
+guid: a3ebcc50cebe60247b4c112b0ff65dec
+timeCreated: 1440673955
+licenseType: Pro
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: spr_Head
+    21300002: spr_Arm
+    21300004: spr_Body
+    21300006: spr_Leg
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 8
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 128
+  textureSettings:
+    filterMode: -1
+    aniso: -1
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: spr_Head
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 14
+        width: 75
+        height: 106
+      alignment: 9
+      pivot: {x: .661326706, y: .0133765601}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: spr_Arm
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 82
+        width: 21
+        height: 33
+      alignment: 9
+      pivot: {x: .712271929, y: .834489286}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: spr_Body
+      rect:
+        serializedVersion: 2
+        x: 92
+        y: 42
+        width: 32
+        height: 31
+      alignment: 9
+      pivot: {x: .51326704, y: .102846086}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: spr_Leg
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 11
+        width: 23
+        height: 21
+      alignment: 9
+      pivot: {x: .370790899, y: .82346189}
+      border: {x: 0, y: 0, z: 0, w: 0}
+  spritePackingTag: Props
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
