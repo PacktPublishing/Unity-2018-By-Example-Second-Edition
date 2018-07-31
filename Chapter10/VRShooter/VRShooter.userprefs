@@ -1,0 +1,21 @@
+﻿<Properties StartupConfiguration="{8C3967EF-EA5C-CD2A-F191-ADB2A5FEC7D2}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/DamageAffectorParticles.cs">
+    <Files>
+      <File FileName="Assets/Scripts/DamageAffectorParticles.cs" Line="22" Column="1" />
+      <File FileName="Assets/Scripts/Health.cs" Line="12" Column="15" />
+      <File FileName="Assets/Scripts/SpawnTimer.cs" Line="5" Column="25" />
+      <File FileName="Assets/Scripts/BotAI.cs" Line="93" Column="1" />
+      <File FileName="Assets/Scripts/ObjectPool.cs" Line="27" Column="106" />
+      <File FileName="Assets/Scripts/Weapon.cs" Line="22" Column="10" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore>
+      <RunToCursorBreakpoint file="/Users/alanthorn/Desktop/packt_by_example/Revised Edition/Code/chapter10/VRShooter/Assets/Oculus/VR/Scripts/OVRPlugin.cs" relfile="Assets/Oculus/VR/Scripts/OVRPlugin.cs" line="23" column="39" />
+    </BreakpointStore>
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.com.unity.postprocessing.Editor PreferredExecutionTarget="Unity.Editor" />
+</Properties>
