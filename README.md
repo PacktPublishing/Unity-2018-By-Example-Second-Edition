@@ -38,7 +38,7 @@ Destroy(gameObject);
 **Following is what you need for this book:**
 You don't need to have any previous experience with Unity to enjoy Unity 2018 By Example, although you need to have basic knowledge of C#.
 
-With the following software and hardware list you can run all code files present in the book (Chapter 1-15).
+With the following software and hardware list you can run all code files present in the book (Chapter 1-10).
 
 ### Software and Hardware List
 
